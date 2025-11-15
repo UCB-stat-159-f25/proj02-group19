@@ -4,4 +4,4 @@
 
 The objective of this project is to perform data analysis and NLP techniques. Part 1 is focused on data analysis and visualization using common pandas techniques. It serves as an initial foundation, helping later with our NLP analysis. 
 
-Furthermore, this project follows the open source framework with proper git usage, binder compatibility, and Github Webpages hosting to make the project reproducible and accessible to as many people as possible.
+Furthermore, this project follows the open source framework with proper git usage, binder compatibility, MYST deployment, and Github Webpages hosting to make the project reproducible and accessible to as many people as possible.

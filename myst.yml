@@ -1,0 +1,20 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 5437e40c-cb86-4204-ab96-267b43b1750b
+  title: Project 2 – Reproducibility in Natural Langauge Processing
+  # description:
+  # keywords: []
+  authors: ["Navein", "Clara", "Calvin", "Halasya"]
+  github: https://github.com/UCB-stat-159-f25/proj02-group19
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: README.md
+    - file: nlp-P01.ipynb
+    - file: nlp-P02.ipynb
+    - file: nlp-P03.ipynb    
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
