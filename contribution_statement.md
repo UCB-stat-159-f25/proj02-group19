@@ -1,0 +1,1 @@
+Navein: Finished Part 1, which involved data pre-processing and visualization/analysis, and setup the README.md (along with Binder link), myst local deployment, and GitHub pages setup.
