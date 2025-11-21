@@ -3,3 +3,5 @@ Navein: Finished Part 1, which involved data pre-processing and visualization/an
 Clara: Did Part 4, which involved analysing which presidents' speeches have been most similar since 2000.
 
 Calvin: did problem 2.
+
+Halasya: did part 3
