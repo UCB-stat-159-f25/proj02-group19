@@ -1,3 +1,18 @@
 1. (Navein) Q: How do I maintain the original order of a dataframe in pandas when using the groupby fucnction?
 
 A: Set the "sort" parameter to "False" inside the groupby() function.
+
+2. (Clara) Q: sou is defined in another notebook, how do i get jupyter notebook to recognize that?
+A: In Jupyter, variables do NOT carry over between notebooks.
+Each notebook has its own kernel state — so even if sou exists in Notebook A, Notebook B won’t see it unless you load or recreate it.
+Re-load the data in this notebook
+
+If sou originally comes from a CSV / JSON / RDS / pickle / etc., just load it again:
+
+import pandas as pd
+sou = pd.read_csv("path/to/sou.csv")
+
+
+Or whatever file you originally loaded.
+
+This is the cleanest and most reproducible way.
