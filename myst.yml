@@ -12,7 +12,8 @@ project:
     - file: README.md
     - file: nlp-P01.ipynb
     - file: nlp-P02.ipynb
-    - file: nlp-P03.ipynb    
+    - file: nlp-P03.ipynb  
+    - file: nlp-P04.ipynb
 site:
   template: book-theme
   # options:
